@@ -12,6 +12,6 @@ For this application you need to follow
  `user_name` VARCHAR(30) NOT NULL
  )
 ```
-##### Go to config.js and put your MySql credention for connection
+##### Go to config.js and put your MySql credentials for connection
 
 ## Done.
